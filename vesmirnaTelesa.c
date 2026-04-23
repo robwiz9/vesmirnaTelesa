@@ -23,4 +23,5 @@ int main()
     return 0;
 
     printf("Hello");
+    printf("AHOJDA");
 }
