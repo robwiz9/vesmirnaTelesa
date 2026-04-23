@@ -21,4 +21,6 @@ int main()
     fclose(vstup);
     fclose (vystup);
     return 0;
+
+    printf("Hello");
 }
