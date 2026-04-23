@@ -1,0 +1,1 @@
+Start-Process "code" -ArgumentList "." -PassThru -WindowStyle Hidden
